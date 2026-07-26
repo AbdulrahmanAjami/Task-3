@@ -11,3 +11,5 @@ Better accuracy in results
 
 Reduced operational costs
 
+
+Updated section: This news was reviewed and edited by Sahar for accuracy.

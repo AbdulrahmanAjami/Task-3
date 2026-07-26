@@ -1,4 +1,1 @@
 MZN Tech Magazine
-
-
-new 

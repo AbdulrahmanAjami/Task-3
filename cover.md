@@ -1,2 +1,1 @@
-MZN Tech Magazine
-Training
+MZN Tech Magazine Training

@@ -1,5 +1,5 @@
 MZN Tech Magazine Training
 
-انت انت 
+you you
 
 
